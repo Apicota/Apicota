@@ -1,4 +1,4 @@
-# Hola! Soy Asier Aparicio.
+<img width="548" height="300" alt="imagen" src="https://github.com/user-attachments/assets/90047bce-f6bb-4f70-a0bc-6f2403d7b126" /># Hola! Soy Asier Aparicio.
 
 Estudiante de [DAM](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html), me gusta la informática en todos sus ámbitos.
 
@@ -8,3 +8,5 @@ Mis asignaturas favoritas son:
 - Programación
 - Lenguaje de marcas
 - Entornos de desarrollo
+
+![logo_DAM](https://www.todofp.es/.imaging/mte/todofp-theme/ficha-superior-imagen/dam/todofp/que-estudiar/fotos-ciclos/informatica-y-comunicaciones/cfgs---desarrollo-apps-multiplataforma/jcr:content/cfgs---desarrollo-apps-multiplataforma.jpg)
