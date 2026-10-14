@@ -10,3 +10,5 @@ Mis asignaturas favoritas son:
 - Entornos de desarrollo
 
 ![logo_DAM](https://www.todofp.es/.imaging/mte/todofp-theme/ficha-superior-imagen/dam/todofp/que-estudiar/fotos-ciclos/informatica-y-comunicaciones/cfgs---desarrollo-apps-multiplataforma/jcr:content/cfgs---desarrollo-apps-multiplataforma.jpg)
+
+![logo_DAM](https://www.mariaanasanz.es/wp-content/uploads/2022/06/logo_bueno_trans.png)
