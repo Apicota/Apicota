@@ -1,4 +1,4 @@
-<img width="548" height="300" alt="imagen" src="https://github.com/user-attachments/assets/90047bce-f6bb-4f70-a0bc-6f2403d7b126" /># Hola! Soy Asier Aparicio.
+# Hola! Soy Asier Aparicio.
 
 Estudiante de [DAM](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html), me gusta la informática en todos sus ámbitos.
 
